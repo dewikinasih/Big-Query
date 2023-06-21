@@ -13,4 +13,4 @@ The query has been stored on The article below
 
 Read the full [article here](https://dewikinasih.medium.com/descriptive-analytics-of-retail-dataset-using-big-query-and-spreadsheets-88ba1e51d7c7)
 
-See the result and visualization on this spreadsheets
+See the result and visualization on this [Spreadsheets](https://github.com/dewikinasih/Big-Query/blob/4a06af5626acf189706c1580ed20b69e7f79b8a1/Query%20Result%20Thelook%20Ecommerce.xlsx)

@@ -9,7 +9,7 @@ I have been summarized the result :
 -	Outerwear and Coats woulfd likely bring us the most revenue, whereas jeans would bring us the most customers.
 -	in 2 years the revenue always  drop slightly in April but in 2022 the drop was extremely farther than 2021. December always gives us the highest revenue
 
-The query has been stored on The Look E Commerce folder or simply you can click here
+The query has been stored on The article below
 
 Read the full [article here](https://dewikinasih.medium.com/descriptive-analytics-of-retail-dataset-using-big-query-and-spreadsheets-88ba1e51d7c7)
 
